@@ -1,14 +1,14 @@
 # Marker-based AR Application
 
-Welcome to the Marker-Based AR Dinosaur Application! This project is a simple yet entertaining AR application that brings dinosaurs to life in your surroundings. Using Unity and Vuforia, the app allows users to see dinosaurs appear and walk around when specific markers are detected.
+Welcome to the Marker-Based AR Dinosaur Application! This project is a simple yet entertaining AR application that brings dinosaurs to life in your surroundings. Using Unity and Vuforia engine, the app allows users to see dinosaurs appear and walk around when specific markers are detected.
 
 <br/>
 
 ## Features
 
-Three Dinosaur Models: The app includes three distinct dinosaur models that appear based on different markers.
-Interactive AR Experience: Dinosaurs walk around the space, creating an immersive experience.
-Creative Elements: Additional creative components enhance the user experience, making the app more entertaining.
+- Three Dinosaur Models: The app includes three distinct dinosaur models that appear based on different markers.
+- Interactive AR Experience: Dinosaurs walk around the space, creating an immersive experience.
+- Creative Elements: Additional creative components enhance the user experience, making the app more entertaining.
 
 <br/>
 
@@ -21,4 +21,12 @@ Creative Elements: Additional creative components enhance the user experience, m
 
 <br/>
 
-## Screenshots
+## Screenshots of the AR application
+
+![temp](/screenshots/screenshot1.png)
+
+![temp](/screenshots/screenshot2.png)
+
+![temp](/screenshots/screenshot3.png)
+
+![temp](/screenshots/screenshot4.png)
