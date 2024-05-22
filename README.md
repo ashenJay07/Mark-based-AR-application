@@ -23,10 +23,10 @@ Welcome to the Marker-Based AR Dinosaur Application! This project is a simple ye
 
 ## Screenshots of the AR application
 
-![temp](/screenshots/screenshot1.png)
+![temp](/screenshots/screenshot1.webp)
 
-![temp](/screenshots/screenshot2.png)
+![temp](/screenshots/screenshot2.webp)
 
-![temp](/screenshots/screenshot3.png)
+![temp](/screenshots/screenshot3.webp)
 
-![temp](/screenshots/screenshot4.png)
+![temp](/screenshots/screenshot4.webp)
